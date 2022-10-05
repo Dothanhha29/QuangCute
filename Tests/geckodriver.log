@@ -1,0 +1,48 @@
+1662460658098	geckodriver	INFO	Listening on 127.0.0.1:51179
+1662460661182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofilegGGAv5"
+1662460661573	Marionette	INFO	Marionette enabled
+1662460661578	Marionette	INFO	Listening on port 51189
+WebDriver BiDi listening on ws://localhost:51180
+Read port: 51189
+1662460661710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofilegGGAv5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51180/devtools/browser/ba7017da-bf60-469a-98ef-b9f9efe4fdb5
+1662460672927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1662460673063	Marionette	INFO	Stopped listening on port 51189
+!!! error running onStopped callback: TypeError: callback is not a function
+1662460861528	geckodriver	INFO	Listening on 127.0.0.1:51466
+1662460865028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofileSbUHzv"
+1662460865395	Marionette	INFO	Marionette enabled
+1662460865404	Marionette	INFO	Listening on port 51503
+WebDriver BiDi listening on ws://localhost:51464
+Read port: 51502
+1662460865573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofileSbUHzv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51467/devtools/browser/dd170ea4-4925-494b-85ac-179eb21a3516
+1662460886535	Marionette	INFO	Stopped listening on port 51502
+1662461373105	geckodriver	INFO	Listening on 127.0.0.1:51804
+1662461376145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofileKqZD4H"
+1662461376499	Marionette	INFO	Marionette enabled
+1662461376507	Marionette	INFO	Listening on port 51847
+WebDriver BiDi listening on ws://localhost:51805
+Read port: 51846
+1662461376874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofileKqZD4H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51807/devtools/browser/52bdc019-009a-43ce-8135-ac769b13240c
+1662461393798	Marionette	INFO	Stopped listening on port 51846
+1662461888109	geckodriver	INFO	Listening on 127.0.0.1:51986
+1662461891160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofileVGXp3H"
+1662461891510	Marionette	INFO	Marionette enabled
+1662461891514	Marionette	INFO	Listening on port 52030
+WebDriver BiDi listening on ws://localhost:51987
+Read port: 52030
+1662461891862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LTS\\AppData\\Local\\Temp\\rust_mozprofilenzAzjp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51984/devtools/browser/a3a3c3c2-9024-41a8-9de6-49e8ca34d790
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://automationpractice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://automationpractice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://automationpractice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back to a synchronous message for: http://automationpractice.com."
+1662461916051	Marionette	INFO	Stopped listening on port 52029
+onette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1662461928173	Marionette	INFO	Stopped listening on port 52030
